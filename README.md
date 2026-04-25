@@ -4,12 +4,6 @@ A Pokédex web app built with vanilla **HTML, CSS and JavaScript**, consuming th
 
 ---
 
-## 📸 Screenshots
-
-> _Coming soon_
-
----
-
 ## ✨ Features
 
 - Displays the first 251 Pokémon fetched from the PokéAPI
